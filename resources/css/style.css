@@ -142,17 +142,3 @@
     margin: 10px 0; /* Jarak atas dan bawah judul */
 }
 
-/* Styling untuk tombol "Lihat Detail" */
-.btn-primary {
-    background-color: #007bff; /* Warna latar belakang tombol */
-    color: #fff; /* Warna teks tombol */
-    border: none; /* Tanpa garis tepi */
-    border-radius: 5px; /* Sudut tombol melengkung */
-    padding: 10px 20px; /* Ruang dalam tombol */
-    font-size: 1rem; /* Ukuran teks tombol */
-    cursor: pointer; /* Kursor berubah saat mengarah ke tombol */
-}
-
-.btn-primary:hover {
-    background-color: #0056b3; /* Warna latar belakang tombol saat dihover */
-}
